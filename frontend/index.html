@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CryptoArch</title>
+    <link rel="stylesheet" href="css/main.css"> <!-- Link to your main CSS file -->
+</head>
+<body>
+    <header>        
+        <div class="header-left">
+            <a href="#" class="home-link"><i class="fas fa-home"></i></a>
+        </div>
+        <div class="header-center">
+            <input type="text" class="search-bar" placeholder="Search...">
+        </div>
+        <div class="header-right">
+            <a href="#" class="login-link">Log In / Sign Up</a>
+        </div>
+    </header>
+    
+    <div id="mySidenav" class="sidenav">
+        <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+        <a href="#">Dashboard</a>
+        <a href="#">Top Gainers</a>
+        <a href="#">Presales</a>
+        <a href="#">Approvals</a>
+        <a href="#">ROI Dapps</a>
+        <a href="#">Settings</a>
+      </div>
+      
+      <span style="font-size:30px;cursor:pointer" onclick="openNav()">X</span>
+      
+      <table border="1">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Symbol</th>
+                <th>MCap</th>
+                <th>Liq</th>
+                <th>Liq/MC</th>
+                <th>30s</th>
+                <th>1m</th>
+                <th>5m</th>
+                <th>10m</th>
+                <th>30m</th>
+            </tr>
+        </thead>
+        <tbody>
+            <!-- You can add table rows here dynamically using JavaScript -->
+        </tbody>
+    </table>
+
+    <main>
+        <!-- Your main content goes here -->
+    </main>
+
+    <footer>
+        <!-- Your website footer content goes here -->
+    </footer>
+
+    <script src="js/navigation.js"></script> <!-- Link to your main JavaScript file -->
+    <script src="js/topGainers.js"></script> 
+</body>
+</html>
