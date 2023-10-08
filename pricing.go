@@ -18,7 +18,7 @@ import (
 
 const (
 	infuraURL       = "https://flashy-intensive-glade.base-mainnet.discover.quiknode.pro/fc937e6a917d8493f86719ba041482277cfd3e26/"
-	liquidityPoolSC = "0x5a2d5918e51b4006aad42cbd1277e78b6fff1adf"
+	liquidityPoolSC = "0xaD5Cc4c2a6625151F9063D3373526abad2Ab846c"
 	WETHAddress     = "0x4200000000000000000000000000000000000006"
 )
 

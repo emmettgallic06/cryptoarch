@@ -4,7 +4,9 @@ go 1.20
 
 require (
 	github.com/ethereum/go-ethereum v1.10.8
+	github.com/lib/pq v1.0.0
 	golang.org/x/crypto v0.12.0
+	golang.org/x/time v0.0.0-20210220033141-f8bda1e9f3ba
 )
 
 require (

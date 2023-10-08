@@ -1,0 +1,122 @@
+[
+    {
+        "internal_deployer": "0x8c7d3063579BdB0b90997e18A770eaE32E1eBb08",
+        "entity_id": "izumi-finance"
+    },
+    {
+        "internal_deployer": "0x2d5dd5fa7B8a1BFBDbB0916B42280208Ee6DE51e",
+        "entity_id": "alien-base"
+    },
+    {
+        "internal_deployer": "0xC8126578093366968199707B7f8eDFf258F473B6",
+        "entity_id": "oasisswap"
+    },
+    {
+        "internal_deployer": "0x0a1C657b839a7fe9A976FFD4aC5a1A363de3eE69",
+        "entity_id": "cbswap"
+    },
+    {
+        "internal_deployer": "0x79b8F15a3bEEcd5014B748499Ec89692665ea368",
+        "entity_id": "iceswap"
+    },
+    {
+        "internal_deployer": "0xaD376065D4fA9aBB6DDA0dED0EAdd911FE6E0f92",
+        "entity_id": "bakeryswap"
+    },
+    {
+        "internal_deployer": "0xe21Aac7F113Bd5DC2389e4d8a8db854a87fD6951",
+        "entity_id": "velocimeter"
+    },
+    {
+        "internal_deployer": "0x4bd16d59A5E1E0DB903F724aa9d721a31d7D720D",
+        "entity_id": "synthswap"
+    },
+    {
+        "internal_deployer": "0xb93A894E31d57BAA6364232Ae0bc0a6a0420f675",
+        "entity_id": "kokonutswap"
+    },
+    {
+        "internal_deployer": "0xcEFbebF0b85B1638C19b01cE2A02C262F421B07d",
+        "entity_id": "basofinance"
+    },
+    {
+        "internal_deployer": "0x0dcCfdF227c3f7b1E5d34B2488A7B0ca01d400a4",
+        "entity_id": "cloudbase"
+    },
+    {
+        "internal_deployer": "0xE4EFb979968AE4B85a166E5e083f7B166e70Fe20",
+        "entity_id": "dackieswap"
+    },
+    {
+        "internal_deployer": "0xa2899c776bAAF9925d432F83C950D5054A6CF59C",
+        "entity_id": "leetswap-finance"
+    },
+    {
+        "internal_deployer": "0x169C06b4cfB09bFD73A81e6f2Bb1eB514D75bB19",
+        "entity_id": "leetswap-finance"
+    },
+    {
+        "internal_deployer": "0xE5552e0318531F9Ec585c83bDc8956C08Bf74b71",
+        "entity_id": "lfgswap"
+    },
+    {
+        "internal_deployer": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da",
+        "entity_id": "aerodrome-finance"
+    },
+    {
+        "internal_deployer": "0x9b5fA2c42713f7fD4201d5F12Dd49962D1A64B6B",
+        "entity_id": "throne-exchange"
+    },
+    {
+        "internal_deployer": "0x4f205D69834f9B101b9289F7AFFAc9B77B3fF9b7",
+        "entity_id": "dackieswap"
+    },
+    {
+        "internal_deployer": "0x3E84D913803b02A4a7f027165E8cA42C14C0FdE7",
+        "entity_id": "alien-base"
+    },
+    {
+        "internal_deployer": "0x1B8128c3A1B7D20053D10763ff02466ca7FF99FC",
+        "entity_id": "rocketswap"
+    },
+    {
+        "internal_deployer": "0x04C9f118d21e8B767D2e50C946f0cC9F6C367300",
+        "entity_id": "swapbased"
+    },
+    {
+        "internal_deployer": "0x9E6d21E759A7A288b80eef94E4737D313D31c13f",
+        "entity_id": "icecreamswap"
+    },
+    {
+        "internal_deployer": "0xFDa619b6d20975be80A10332cD39b9a4b0FAa8BB",
+        "entity_id": "baseswap"
+    },
+    {
+        "internal_deployer": "0x38015D05f4fEC8AFe15D7cc0386a126574e8077B",
+        "entity_id": "baseswap"
+    },
+    {
+        "internal_deployer": "0xc9eE54147445F1C1C23F52183c95456e69A92989",
+        "entity_id": "baseswap"
+    },
+    {
+        "internal_deployer": "0x4ba35f718F8d03e97E4ece6A29724CeeCbdF6E8c",
+        "entity_id": "pira"
+    },
+    {
+        "internal_deployer": "0x4Cf1284dcf30345232D5BfD8a8AAd6734b6941c4",
+        "entity_id": "kokonutswap"
+    },
+    {
+        "internal_deployer": "0x33128a8fC17869897dcE68Ed026d694621f6FDfD",
+        "entity_id": "uniswap"
+    },
+    {
+        "internal_deployer": "0xc35DADB65012eC5796536bD9864eD8773aBc74C4",
+        "entity_id": "sushiswap"
+    },
+    {
+        "internal_deployer": "0x41ff9AA7e16B8B1a8a8dc4f0eFacd93D02d071c9",
+        "entity_id": "pancakeswap"
+    }
+]
