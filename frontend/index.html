@@ -30,27 +30,66 @@
       </div>
       
       <span style="font-size:30px;cursor:pointer" onclick="openNav()">X</span>
-      
-      <table border="1">
-        <thead>
-            <tr>
-                <th>Name</th>
-                <th>Symbol</th>
-                <th>MCap</th>
-                <th>Liq</th>
-                <th>Liq/MC</th>
-                <th>30s</th>
-                <th>1m</th>
-                <th>5m</th>
-                <th>10m</th>
-                <th>30m</th>
-            </tr>
-        </thead>
-        <tbody>
-            <!-- You can add table rows here dynamically using JavaScript -->
-        </tbody>
-    </table>
-
+        <div class="card-container">
+            <div class="card whale-watch-card text-center">
+                <div class="card-body">
+                    <h5 class="card-title">Whale Watch</h5>
+                    <h6 class="card-header">Data Table</h6>
+                    <table class="table">
+                        <thead role="rowgroup" class="thead-light"><!---->
+                            <tr role="row" class="">
+                                <th role="columnheader" scope="col" aria-colindex="1" class="">
+                                    <div>Name</div>
+                                </th>
+                                <th role="columnheader" scope="col" aria-colindex="2" class="">
+                                    <div>Symbol</div>
+                                </th>
+                                <th role="columnheader" scope="col" tabindex="0" aria-colindex="3" aria-sort="none"
+                                    class="position-relative position-sticky text-center">
+                                    <div>MCap</div>
+                                </th>
+                                <th role="columnheader" scope="col" tabindex="0" aria-colindex="4" aria-sort="none"
+                                    class="position-relative position-sticky text-center">
+                                    <div>Liq</div>
+                                </th>
+                                <th role="columnheader" scope="col" tabindex="0" aria-colindex="5" aria-sort="none"
+                                    class="position-relative position-sticky text-center">
+                                    <div>Liq/MC</div>
+                                </th>
+                                <th role="columnheader" scope="col" tabindex="0" aria-colindex="6"
+                                    aria-sort="descending" class="position-relative position-sticky text-center">
+                                    <div>30s</div>
+                                </th>
+                                <th role="columnheader" scope="col" tabindex="0" aria-colindex="7" aria-sort="none"
+                                    class="position-relative position-sticky text-center">
+                                    <div>1m</div>
+                                </th>
+                                <th role="columnheader" scope="col" tabindex="0" aria-colindex="8" aria-sort="none"
+                                    class="position-relative position-sticky text-center">
+                                    <div>5m</div>
+                                </th>
+                                <th role="columnheader" scope="col" tabindex="0" aria-colindex="9" aria-sort="none"
+                                    class="position-relative position-sticky text-center">
+                                    <div>10m</div>
+                                </th>
+                                <th role="columnheader" scope="col" tabindex="0" aria-colindex="10" aria-sort="none"
+                                    class="position-relative position-sticky text-center">
+                                    <div>30m</div>
+                                </th>
+                                <!-- <th role="columnheader" scope="col" tabindex="0" aria-colindex="11" aria-sort="none"
+                                    class="position-relative position-sticky text-center">
+                                    <div>60m</div>
+                                </th> -->
+                            </tr>
+                        </thead>
+                        </thead>
+                        <tbody>
+                            <!-- You can add table rows here dynamically using JavaScript -->
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
     <main>
         <!-- Your main content goes here -->
     </main>
